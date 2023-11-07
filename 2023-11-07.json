@@ -1,0 +1,26 @@
+{
+  "name": "Jared Moreno",
+  "age": 60,
+  "address": {
+    "street": "Tiece Street",
+    "city": "Cecvafmom",
+    "state": "MT",
+    "zip": "28826"
+  },
+  "contact": {
+    "phone": "(650) 351-5619",
+    "servicePhone": "800136529"
+  },
+  "birthday": "1959-08-02T22:52:33.519Z",
+  "ip": "136.29.20.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Jol gekgeodi wetisde veke bebhar zit totwuklog tiholov mazlon hogsazho fisunara fecrig. Tukma jasher tigmun funpev fagbun tifos laczigu hivaz naladoh lilzad badi ja liluk eloapizow cefauvo geffeeso los ob. Zajoop ubu neterpo vo raj wa eftej fo uleifa nojvipme loz ihudi udbot eveje.",
+    "bio": "Pepa ububcew diwehipi wocda zoice vengen cem beh gawoew dos odru agu tioru obtuig cebvo tubavege ker. Ukasa ensemri dipisoh ta bi olusu muf ulpiznud pab tus ofhafab ohezige bemaf sil. Cozu wumwum imanero dego heis wenuci gopci ruojazur fo fur wo jos dozempa ehvob site vesupwec jema uv."
+  },
+  "apiKey": "3b7721385f839143318b7b1ed6d7dde48e534e4b7e31aa787623e309a2c6da65",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
