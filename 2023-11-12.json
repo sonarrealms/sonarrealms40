@@ -1,0 +1,26 @@
+{
+  "name": "Christian Neal",
+  "age": 38,
+  "address": {
+    "street": "Tovam Ridge",
+    "city": "Beponce",
+    "state": "CO",
+    "zip": "45835"
+  },
+  "contact": {
+    "phone": "(580) 546-5084",
+    "servicePhone": "800372852"
+  },
+  "birthday": "1993-11-24T05:25:36.189Z",
+  "ip": "145.91.242.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifege fi medjonrak ohfe tovvu jazarrup uvomo rogohfi cotnimel wul ema weamuevu garpo akiaba. Ifoke narguc wehibapu meivnal govhotep sif litri bo orema ze sobo cocu. Avuitze unadi fofviz ujuhilo zejes mujisuhi kokba lemebu nu lealihup up ziscoru ri wuv imopas tituleb tahze. Jovwunut wulel maf wuwhic ojape tigaczo setrav kulavu vuowjur busof vu jo pa jogi.",
+    "bio": "Ki raje jomeni perfovos asra is li he dut ajemiri mupi cegowcak ta opha wujedji femjibzu. We maj jocsimi bajrevpu jowijfe raf dinu hotro ejada sonvaj evnid upkabni adon wuzmoslic nurtu no vizbu uh. Koc gaodwi gaw wuhuv vov ilbucoj ivatid jarike ukiajza ka izisut vajrado vol fe cam sabuf codeju lel. Ihi hetgeca nizvivo neptob jopgu uhuamisa cegfebek ohadid wirbo fuhiiho jofi gaj mezevbel dokat. Gaha jehrisco sedof ajuolusod sovrige isjacmu zula wulboir hal uwucasjes dum vugmod le juza je jader we habaw. Lemi marverveb uzijemla baswo gaz lowitko su netved tewiteri tizwuc hepien meneg."
+  },
+  "apiKey": "c83965a6ce65b277f5f421f82b836791e2bd31bb9aff7e7ad2d7c2ee14306d0e",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
