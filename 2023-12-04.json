@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Colon",
+  "age": 18,
+  "address": {
+    "street": "Watu Extension",
+    "city": "Vumjazaso",
+    "state": "VA",
+    "zip": "61343"
+  },
+  "contact": {
+    "phone": "(660) 528-2975",
+    "servicePhone": "800157768"
+  },
+  "birthday": "1980-11-27T19:46:02.181Z",
+  "ip": "248.241.199.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Zopog su everer vak madeb zoklo pez fajham noz lani voh cocedab ciucu winri. Omeru bildefif supmo zul izu ri gehecak sawnid bon cefeso rak wulisi vowic ujtitir ezora ecaoj. Suse ozo ekra ru gavoremu gopa lag radfavni temoif hasil dapnoh devfabi sindib topeduj iwuvore guemodu fesvecvop. Ejaza nig ciihmej fi rehdod mebbe va mibbabzik ji let teham lenvanden.",
+    "bio": "Mepveg hoijjo zu ot olfikus duvfi pa meboz zabod no ipki egga ca nutmefiz. Saijje pi buw go odawuzfiw ro gowubiz casim kezi bare jo ram lecnalpan jafu. Fe bo zuv pi ijmip wigvop juhhode ipi joj ap vec pidwa. Cahiljuj cuvsozzer obo fi cofpagojo bumishez fosunbod umpuzam oggah povhun ubdi ped no sosugpej."
+  },
+  "apiKey": "b82556216c2a7a641327e897516f57c6d2ed96cc0a125c69c7713efd23d0720b",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
