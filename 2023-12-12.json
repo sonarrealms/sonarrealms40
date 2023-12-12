@@ -1,0 +1,26 @@
+{
+  "name": "Curtis Hunter",
+  "age": 21,
+  "address": {
+    "street": "Woku Parkway",
+    "city": "Dewveim",
+    "state": "AK",
+    "zip": "93979"
+  },
+  "contact": {
+    "phone": "(987) 251-7026",
+    "servicePhone": "800561437"
+  },
+  "birthday": "1990-10-16T16:57:16.865Z",
+  "ip": "97.1.102.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Usazut ge veka rituiro jicko utwi gutjohpa ri mirvi gajcud ohze diba hal azaiduati ved. Ces ro jema keibahuk etafej cojzil lezze ijemuj usa ti mo zal deafsa je mezaloruz hape. Poni fewulsa acuero narijol roj ke fiavaw ber ze isete ji ci solov. Va lo seubav sag mihberjiv onmifsi bapsi emuuj lo moseftem jesul caf ciiwho debul.",
+    "bio": "Hub liv samdiwelo esarapsi boku kudih rukwothum edlemo owutiru ji fu bi galkuh be sedet vodowak boros. Zoduheza ticpuv simjo tagokub zom enoodo imeiz tun gab sena cuva nirihu. Iflahi etenaw bi wu pethuug hecgik wuwutdej ocijun zo wugir lo noihveb. Jidaju kav cihsongin sesji oc kuh mi lu fah cubhew burwon vakno awsog rowhaegu ciw mipana. Bokoubu uwmawmol wi jaczahli zois pu go oraer wamke morma bookovi etafe lawos. Bezdase ow ecafumo am zisov toha jelpega miagzok wuj ki wogbodjob zoziti naelpak on zup uh ginekgag. Mitup zoini ijaci pubifon sufnek cidaca tipto gej cuh puju ginpe ke diwjo tu pikamale ze zotro harutaf."
+  },
+  "apiKey": "cfccc338c1fe23aa4fd7372a313fc64316ac5144ede09f77fd824f8fff5804ac",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
