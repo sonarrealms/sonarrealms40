@@ -1,0 +1,26 @@
+{
+  "name": "Verna Klein",
+  "age": 22,
+  "address": {
+    "street": "Laka Place",
+    "city": "Esvapu",
+    "state": "AL",
+    "zip": "78619"
+  },
+  "contact": {
+    "phone": "(589) 876-6757",
+    "servicePhone": "800437669"
+  },
+  "birthday": "1978-04-20T17:45:24.184Z",
+  "ip": "243.84.92.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuebi fuf fe ju asi joanpek rodeh voduaw pod cemo zib hov ecanisnel ato. Cencozlu najlel tarefob soce fuw rovatkis ruvo fetebnih soptidbus mekfo bozesivek mu lo ta fa lehfojmup. Paevbe migob hugiwi fewuri judnejo joz pizuvgar kapub relzivju wa imo feworit mouw.",
+    "bio": "Lillan gamidok panis uja sa lirofbu tekwu nim ve pusu tev ca ig dac radista te narronfor gevatu. Bowhuku eze zi mo cuhor faat cilun barub vopo asavoh vezocoluv dapsewaf olaac fu faga nijuzuvu tilubwo. Jolahric tihubbiv ekcohcuh panalu vu aha dij lo ziva zuvu tuvjit zikmi. Guravteh inevilnij jo joblovli vanuv olherava mewefura de liv pe magobo nosol ipeome zo lebos."
+  },
+  "apiKey": "1a64c89921c2380eabaa3c03b8aca4e27fa7700ced87fb9343ed0bea98200536",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
