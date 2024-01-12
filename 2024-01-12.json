@@ -1,0 +1,26 @@
+{
+  "name": "Richard Evans",
+  "age": 49,
+  "address": {
+    "street": "Ripa Grove",
+    "city": "Hewuze",
+    "state": "TN",
+    "zip": "55701"
+  },
+  "contact": {
+    "phone": "(635) 652-7241",
+    "servicePhone": "800855674"
+  },
+  "birthday": "1995-06-21T05:49:22.072Z",
+  "ip": "67.117.145.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Revu ho gepkewduv goz juaf saige biz zac rupe tewara zosopwa jiwolmak jo sa ewatuv vurli jasfus. Hesima baaz bopme jopemi val gud je ujumeke vewbop tefwocaf cuciiru ducguvnuk zizlepin orrucig ziwbo meef uboca. Lujojja nos jepce panuzpop ra hu doj rafe uko po gucegkiw cudefuz luodamum li otoga gi.",
+    "bio": "Heczeh lasa mejun palu map re tut cimvogi uvu cijgapsuw humugo cat. Efsi lenasi laavavi mulror tut fef utote pak heson efedivubu oko geewosuw. Ebutuj rirgu cozigaca din rikob nuace ge fetirni iciebov tezubuofa howevi zucinuk laufewo felowtub."
+  },
+  "apiKey": "f905cdfb63e51398fb779845d0c18808c9720facd900865bfa79a92853962512",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
