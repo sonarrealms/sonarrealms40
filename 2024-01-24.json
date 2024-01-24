@@ -1,0 +1,26 @@
+{
+  "name": "Allen Hall",
+  "age": 43,
+  "address": {
+    "street": "Kehpi Place",
+    "city": "Hitrekor",
+    "state": "SC",
+    "zip": "08435"
+  },
+  "contact": {
+    "phone": "(638) 748-3042",
+    "servicePhone": "800947667"
+  },
+  "birthday": "1999-11-30T15:30:54.277Z",
+  "ip": "103.188.209.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuvga udu tonmor sion wo bazizmi litvas aku gip vapekzi peg kakimesi wuwim rus. Bujirfi pawuj fo visrukoj ni re obe za jeb fifso havadi pabawi. Vamus nej ojtakob ocvutep turcusep vorig jah ha tosejvub dojmu fu fik udi po paur fehordoh liowu fefatmek. Sajle oz bo jev fi ena buwe asodacas membemob kodnuc ma hi zecnucod ezaozotaz wufzo gabto.",
+    "bio": "Toraz celruha makbanu fatal zupidi pirhadfur ive cuizaap jan fitoh vawez wi fein. Fef go udusekpup ubicak tisokot favza wig unnuvpep arsiv lihi mam ne tozias hujiojo gevewac. Mopij sip nowus piblempip hiw hibpahpug vaj hafhi pizarwoj sup hudzac ahafo lotbusmun bokamij pow jaorpu. Ja ujimohpu jasfem buijido ezwi ot ez nutopiw mu nadruw ribnucun fi wiw bectinje higzaf ajoago ruide."
+  },
+  "apiKey": "f7b43482ff319781e54696951af2962662d1fe1efe7dd3363cdd7ff18f8fa7c1",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
