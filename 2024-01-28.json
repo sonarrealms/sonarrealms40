@@ -1,0 +1,26 @@
+{
+  "name": "Jose Hunt",
+  "age": 65,
+  "address": {
+    "street": "Atupim View",
+    "city": "Sumheham",
+    "state": "OH",
+    "zip": "99342"
+  },
+  "contact": {
+    "phone": "(483) 572-1362",
+    "servicePhone": "800739813"
+  },
+  "birthday": "1975-02-27T10:10:41.682Z",
+  "ip": "124.3.0.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Nu gu no miv apalepu jusofab zunupugo fisrajdik hiwba digja gukvunvin wif ti lovni huglu. Am oro naf fozeluned kes ralregsa bagocji unilema kiek ke tilvefik cugfuzob. Dizotpar capvas hafak zus ifumocem geveuvu ziminegi ekejoadi cazjezbab bilevezih zida azekulna go kiuc kemaha jucokso.",
+    "bio": "Ik ritjugub kab vaswewa jug rizih juhli nire secho wozi kinifeka reh akivi hu nodu fu. Ali ju pob os tu evizivsud lurevi uk ucohojwe mehviso cum zuvipi zazod il ca nivnepa si lib. Jegar hot go nilol fabod binulhi deb hase utoab mu vovrer muha noheiv kat kiubi ajitamuf weni."
+  },
+  "apiKey": "ce22189690d932d10d767d322c464b218e2512a0e6dbfe223c61a6dc2a8ae07f",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
