@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Abbott",
+  "age": 58,
+  "address": {
+    "street": "Fejto Loop",
+    "city": "Odvawzek",
+    "state": "IN",
+    "zip": "87324"
+  },
+  "contact": {
+    "phone": "(922) 388-3825",
+    "servicePhone": "800623517"
+  },
+  "birthday": "2000-12-24T16:01:04.530Z",
+  "ip": "142.146.19.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Owpip cehdipa hotubun vi leb pupfolfi nodudbi zo degoj rej af je. Lu joip pokfasoh toiz zakar ruvoje ogpuwag ehsarru nenuov nas va ca rullebwe nijhe ita zukonsa zod. Niwub bego torkigamo libecute fecti reerewi iherus fesnac evuvu ce sim je picgak alvo.",
+    "bio": "Seti luwronuge gias jasiupi civemefe vaih ehufit wisotij awo momtofva nibi ab zawibali acemochof in fuapnag uriumuaj daf. Juiru cu itvez bustorec mura zu vejuwa gijzosfun zetfiura bud evinabfaj tikecuma netom pif ossohfa wierowi. Na mawzodku dul kakuuri bi leah com go ne cambenizi wu ku neh eno ethuzi habdiffe."
+  },
+  "apiKey": "7fd5ca4a7fdaa1a8d2dfc2d97ab081f02d37ee15897ac32aa9c39d78d03b039d",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
