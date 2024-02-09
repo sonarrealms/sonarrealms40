@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Nguyen",
+  "age": 50,
+  "address": {
+    "street": "Foiv Boulevard",
+    "city": "Beknuora",
+    "state": "AK",
+    "zip": "36427"
+  },
+  "contact": {
+    "phone": "(989) 516-8584",
+    "servicePhone": "800374566"
+  },
+  "birthday": "2006-11-17T05:54:16.848Z",
+  "ip": "170.32.227.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Likhir wohual bu kir juw sabame ufli vajav podnow ve tawfowej hu fil hef umi tezis lejzot. Lom ubbolic urwi debazzi hedvo nete oh suni uwazedov diri hovotouc fardu ler tuwwop. Guawoor nemmih sitem gesdelas lese etovda keut belimi ucmom olalontat jonuij wa deoh urpehe uwiwume. Lit pe ugo cep his cewdun zur bosfagtog je afumuc bemnapi rizfuus. Gur aclu modam mi komeguf bourusev ijuzocuj luset ciz behbobmi jazudijic ohpen ram ufienopun arekis gud powuw. Gen oke bolitir tege kinil sulehgi podip pe miwozu icihepik juunto pegevetic zuwica mevek. Mowjodnep elpujze tusnuisa apvibkav os etkil wikjaibe we ceh zawibpo nuskofnot wo aruhi bozvu totek peh ajuju.",
+    "bio": "Jusja ahomeac gopurol mavicwit tisi puat mikemik tuaso digfetuse bepkipen leja ture ome sundizo tewfa. Culuvo ine ubleko nolo ogaos gubo sovet loj enasauka uh lurwestid be fo gilewatav. Leg esatil aga capa tuklaeju vo begajik uva cizo onu ovajetbar abowa ro digil venru od."
+  },
+  "apiKey": "47f1ec6dc3fe17c8b0845ef3e0d69d35760fae8b96a342a7c14a36fac7c7c5fa",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
