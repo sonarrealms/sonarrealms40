@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Grant",
+  "age": 62,
+  "address": {
+    "street": "Jaadi Point",
+    "city": "Netvuned",
+    "state": "KS",
+    "zip": "25573"
+  },
+  "contact": {
+    "phone": "(363) 809-2539",
+    "servicePhone": "800463768"
+  },
+  "birthday": "1980-05-10T04:54:47.377Z",
+  "ip": "242.217.96.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne cebil vor tev ujici ramuace ved rudnuha kopa gozipna ga vuistoz pegwihgec neji. Cabuc sovho fomse sahbidfac wugtopjev ifaekdil nusderu hojaddun uruhakiw faum feronuw vebtaj. Fuuze gil sun afverok na hod ibufaake hukive zow unzu owni onunusuc zircekla lowroot.",
+    "bio": "Kicpaal pelotboz tucal bud ci ne sivlu nuz nowoheah gadulize dedzica kekidwa ni lakuja rizauda vicepoho. Bohtiji zowew po datwuze vo gonew wum isu zi finhu vi ve odo. Leh buluj gul ine wak zisgow toticubuh kohotum liflas alki wausous mavevuegi vo wiso eggotot. Fejoji japecu roldine co abtez sa raotgap cazunat vowevem usi ze zutrotjec solketa zec foc jo kofro. Pat dibo ajamufe ut huif eje efbo maw efo vecan izu ni kobas hus gonfo hopaj. Tamdaset kej fojvok igi jise ektud hegbohi jicvargar esdus omoecohoc hu fiwisji maficvo ize lan velazti patjak."
+  },
+  "apiKey": "0b9470a5433c77ecc79aae3b90b9867a3d1bfd45e8d3ce2df88f1b9c5890dc1a",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
