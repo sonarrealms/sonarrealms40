@@ -1,0 +1,26 @@
+{
+  "name": "Martin Rodriquez",
+  "age": 19,
+  "address": {
+    "street": "Jobic Center",
+    "city": "Icepamu",
+    "state": "ME",
+    "zip": "57044"
+  },
+  "contact": {
+    "phone": "(808) 974-9035",
+    "servicePhone": "800863537"
+  },
+  "birthday": "1997-12-09T12:52:15.534Z",
+  "ip": "184.247.174.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu wiwiw dac ga jocoid gofburi siksa bej fu rid igafiluc zer maepna movfacvez jivubep. Udso henahad supfe ginaruc ewedefa mettomoro ogdo bef sosun fes seca uga. Sogkeg fivuf alzazi sinci mefef mu delic vis dunbaju me ibfo liwum. Lac zuseef bog gimtasu ebu ubtodse esisbu pev bifkel zavodhe ri tagrice vumelsi san roreh. Ca onolub me awjo cicil une ojete ro ihemap muvlasec zoli raw pog. Zetvac lekfi kojpah dojnupo gizagfi bak zime so ihogoha nidagfo divfezav zem ceweke ju ofawelo pig puwtihan.",
+    "bio": "Furu ulma moofwip kipvi vosdopu feros seg tuk kiz pabu ramlehib uwosicwo. Ejoma icra pojnomet fohon ulwabbad owonomod piimpe ju gigto tolsolej efe fic retav vurwik rilsasva buviw fange. Ja tora zuga da iwi og paikloj kogzice wulcilu coer we lug gekukmib. Dimmahlu egu gez opcal inu janju dez socisah iri liimrap kagop sivkotog ipiogikag sev pil vaszoz."
+  },
+  "apiKey": "42e297454515bdb34008b9df98199dfa618155e62a3066f12ec402c73d8c6d7e",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
