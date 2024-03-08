@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Garrett",
+  "age": 25,
+  "address": {
+    "street": "Reha Pass",
+    "city": "Etawiwiv",
+    "state": "SC",
+    "zip": "03867"
+  },
+  "contact": {
+    "phone": "(642) 622-3106",
+    "servicePhone": "800481186"
+  },
+  "birthday": "1984-11-26T04:21:03.505Z",
+  "ip": "142.98.40.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Tene duvva cuv ul onedizon pihefpi wimabja ma ja gaetaku ehubado ezdi nuvloip kapso. Jur lojuobo va teroku ingafag jeku ure zaze urur lecan ijeece hupicdi doiz. Niv tegvitzi tule zohze segusame bifpinsob zalep boic ukru fomofaso ur zutud fut repnuc zupihuwe.",
+    "bio": "Li adidimlo azjarwif nundon cubrinud aju lawced henuis aj ipfu ofado puje gevroat lomvos usejo forejena is. Kenulas arobod dudidhe uffudtuz goldug riphic ba zinure zivpojifo tu as kugad fagumuh imuguv pevidjoh lu polies. Cur licaju ectu lec se foudne ucuutnak paemesoz pazpuhhi tuk rinwimko bav."
+  },
+  "apiKey": "8abc5a6760d39e796a6aa05d3db36d6ba7a0142673a1c83c7de83212af14ced1",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
