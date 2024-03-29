@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Bryan",
+  "age": 31,
+  "address": {
+    "street": "Wuok Road",
+    "city": "Heljamiv",
+    "state": "MI",
+    "zip": "60680"
+  },
+  "contact": {
+    "phone": "(780) 907-8329",
+    "servicePhone": "800522776"
+  },
+  "birthday": "2001-08-15T13:48:20.199Z",
+  "ip": "117.9.153.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Mev ba nucgod miiju ro ulhu pediva zundo woktaenu ihi esi vozid. Evvapaj gic viduw eh konuum fosikam fusona jipiltiw zon ukuce fuet kadal cijaruw datawpis ubu udiviec mizkot. Tu vih ijoba viij dunhizkiz emedogtuj fikwowfa elec na riv mucujeb uzojin.",
+    "bio": "Zonicoja idku tafhonica vodo lewsijde boas togarene giet diajahu ujroema ecapij li is. Za uki zu ije ruc dob tidegtog fo kud kekditu buupcat nip iturim balup du wiemu. Hacegsab misoles owo atapes itimol wal fojwoplo omu iheful noggopep fij godu. Sikumop azo lerinno avgahow wor ipkic ri taksi ki ziurila lud pifvanren zihusu."
+  },
+  "apiKey": "12d7aa46353eee9c31e7f72f0d1f94c050a8749281f28349ba5263861a9e6b43",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
