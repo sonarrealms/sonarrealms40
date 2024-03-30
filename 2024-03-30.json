@@ -1,0 +1,26 @@
+{
+  "name": "Lina Weber",
+  "age": 25,
+  "address": {
+    "street": "Wikak Trail",
+    "city": "Wajalcu",
+    "state": "LA",
+    "zip": "11657"
+  },
+  "contact": {
+    "phone": "(762) 585-9312",
+    "servicePhone": "800839633"
+  },
+  "birthday": "1995-04-29T00:00:16.766Z",
+  "ip": "131.224.29.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Jup defibi dofomfa row hicje pe ezi vawoh se fufaz doz jowubaco usuv bobvem ravikif ube. Niabadet aho daecsu maafe bule su em kuvude awukaev uledaj feojulu vofrap iz buforzu tinuj dowadafez. Ravsuz cof genavus gu omo ev golib gip ewoudepe lep tilace ziojoelo rojura ha.",
+    "bio": "Vinsomjiw gu zuopuza el va purobtan et code uc pehhakko wudwitbu so gor cizi bapopci aw. Gushoh giru cocum si ihabelnib ju abafedfe so porkaf voda pi aktajson vom. Guhu vaf me fofhinnol tagjesga uko wi vofagahi gini da cibziumi guz."
+  },
+  "apiKey": "fbc4bf2ab053d45c16aa95cbf666e18d4e4e8114983846ee9015c407ab815367",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
